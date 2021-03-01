@@ -1,0 +1,218 @@
+[
+  {
+    "id": "8440f0cb-517a-43d7-86c1-dbb7afa0a1ed",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "annual salary",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c29a2fa6-0dda-4b17-9679-328a07ed0d8c",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "810cd9f9-443b-4be6-a96a-367a81ac33da",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "hours of work",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a41488da-9e77-4528-ac15-982565bbb77f",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "annual salary",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3836181-b8fb-4e2b-b646-418beb891910",
+    "data": [
+      {
+        "text": "Can you look up ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77e98822-6e70-412e-8735-2dd1619449a2",
+    "data": [
+      {
+        "text": "I need to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2236b90a-0b65-4496-a12c-a79723f84244",
+    "data": [
+      {
+        "text": "I\u0027d like to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1680d887-42a4-46f5-bfb4-8ecc1dd5511e",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a82c8e67-57f5-44fc-8787-4760cc6c0a13",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ac40ecd-0e5a-4ee7-afc5-355c07edf65f",
+    "data": [
+      {
+        "text": "Where can I find out about ",
+        "userDefined": false
+      },
+      {
+        "text": "discipline",
+        "alias": "topic",
+        "meta": "@Topic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
